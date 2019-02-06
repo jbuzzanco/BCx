@@ -1793,14 +1793,14 @@ body {
 }
 .cid-rgtB99u6m1 {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rgtB99u6m1 del {
   color: #9a9a9a;
 }
 .cid-rgtB99u6m1 .price {
-  padding-top: -1.8em;
+  margin-top: -0.4em;
   color: #ff7500;
 }
 .cid-rgtB99u6m1 .mbr-section-text {
@@ -1868,6 +1868,15 @@ body {
   padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-rhfya2OKbW h3 {
+  color: #13005a;
+}
+.cid-rhfya2OKbW p {
+  color: #9a9a9a;
+}
+.cid-rhfya2OKbW li {
+  color: #9a9a9a;
 }
 .cid-rgtxjy8AdJ {
   padding-top: 60px;
@@ -3053,7 +3062,7 @@ body {
 }
 @media (max-width: 991px) {
   .cid-rgF87trcaj .mbr-figure img {
-    width: 100% !important;
+    width: 30% !important;
   }
 }
 .cid-rhfCE95d7W {
