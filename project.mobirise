@@ -47,7 +47,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "BCx has Individual Healthcare Services\nStarting at $19/Month or $190 Annually.",
-        "header_custom": "",
+        "header_custom": "<style>\nhtml, body {\noverflow-x: hidden;\n}\n</style>",
         "footer_custom": "",
         "html_before": ""
       },
