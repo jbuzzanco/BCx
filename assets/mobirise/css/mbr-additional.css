@@ -1920,6 +1920,13 @@ body {
 .cid-rgtA6OJOJd H2 {
   color: #13005a;
 }
+.cid-rgtA6OJOJd html,
+.cid-rgtA6OJOJd body {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
 .cid-rgtH64a9O2 {
   padding-top: 90px;
   padding-bottom: 90px;
