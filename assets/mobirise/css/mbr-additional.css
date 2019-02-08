@@ -1750,8 +1750,9 @@ body {
 .cid-rgzHdox6aC .mbr-section-btn {
   color: #13005a;
 }
-.cid-rgzHdox6aC .btn {
-  padding-left: -4em;
+.cid-rgzHdox6aC .btn-md {
+  margin-left: 0 !important;
+  text-align: center;
 }
 .cid-rgcCydUgBh {
   padding-top: 90px;
